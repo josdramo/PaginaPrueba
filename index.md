@@ -50,14 +50,3 @@ id sem consectetuer libero luctus adipiscing.
 >     return shell_exec("echo $input | $markdown_script");
 >     linkCodigo: https://github.com/josdramo/PaginaPrueba/blob/main/index.md
 
-Empieza html codigo de prueba
-<html>
-<head>
-    <title>Esta es mi primera pagina</title>
-</head>
-    
-<body>
-    <h1>Esto es un encabezado</h1>
-    <p>Y esto es un parrafo, donde podemos escribir todo el rollo que se nos ocurra.</p>
-</body>
-</html>

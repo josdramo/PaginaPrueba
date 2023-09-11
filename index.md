@@ -48,5 +48,21 @@ id sem consectetuer libero luctus adipiscing.
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
->     linkCodigo: https://github.com/josdramo/PaginaPrueba/blob/main/index.md
+>     [Enlace] https://github.com/josdramo/PaginaPrueba/blob/main/index.md
+
+#### **Lista ordenada**
+
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+4. Elemento 4
+
+#### **Lista sin ordenar**
+
++ Elemento a
++ Elemento h
++ Elemento g
++ elemento o
+
+
 

@@ -1,17 +1,27 @@
-Markdown utilidades
+#Markdown utilidades
+
+####**Encabezados Markdown**
+
+Para utilizar encabezados en Markdown colocar un "#" antes del encabezado (No olvidar dar un espacio para no cometer errores.)
 
 # Prueba de encabezado 1 Markdown
 ## Prueba de encabezado 2 Markdown
 ###### Prueba de encabezado 6 Markdown
 
-Linea de texto de Markdown.
+####**Lineas de texto de Markdown**
 
-Linea de texto de Markdown 2. Sin salto de pagina
+Para colocar lineas de texto escribir normalmente en el archivo de codigo. Si deseas hacer otro parrafo, tienes que dejar una linea texto en blanco entre ambas lineas de texto.
 
+**Parrafo 1.** Linea de texto de Markdown.
+
+**Parrafo 2.** Linea de texto de Markdown 2. Sin salto de pagina
 Linea de texto de Markdown 3.
-Linea de texto de Markdown 4.
 
-Citas de bloque
+**Parrafo 3.** Linea de texto de Markdown 4.
+
+####**Citas de bloque**
+
+Para utilizar citas de bloque utilizar ">"
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.

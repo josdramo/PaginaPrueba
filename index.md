@@ -48,7 +48,7 @@ id sem consectetuer libero luctus adipiscing.
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
->     linkCodigo: 
+>     linkCodigo: https://github.com/josdramo/PaginaPrueba/blob/main/index.md
 
 Empieza html codigo de prueba
 <html>

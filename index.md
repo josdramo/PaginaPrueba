@@ -1,7 +1,4 @@
-<html>
-<head>
-    <title>Esta es mi primera pagina</title>
-</head>
+
 
 # Prueba de encabezado 1 Markdown
 ## Prueba de encabezado 2 Markdown
@@ -13,6 +10,12 @@ Linea de texto de Markdown 2. Sin salto de pagina
 
 Linea de texto de Markdown 3.
 Linea de texto de Markdown 4.
+
+Empieza html codigo de prueba
+<html>
+<head>
+    <title>Esta es mi primera pagina</title>
+</head>
     
 <body>
     <h1>Esto es un encabezado</h1>

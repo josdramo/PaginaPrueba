@@ -1,6 +1,6 @@
-#Markdown utilidades
+# Markdown utilidades
 
-####**Encabezados Markdown**
+#### **Encabezados Markdown**
 
 Para utilizar encabezados en Markdown colocar un "#" antes del encabezado (No olvidar dar un espacio para no cometer errores.)
 
@@ -8,7 +8,7 @@ Para utilizar encabezados en Markdown colocar un "#" antes del encabezado (No ol
 ## Prueba de encabezado 2 Markdown
 ###### Prueba de encabezado 6 Markdown
 
-####**Lineas de texto de Markdown**
+#### **Lineas de texto de Markdown**
 
 Para colocar lineas de texto escribir normalmente en el archivo de codigo. Si deseas hacer otro parrafo, tienes que dejar una linea texto en blanco entre ambas lineas de texto.
 
@@ -19,7 +19,7 @@ Linea de texto de Markdown 3.
 
 **Parrafo 3.** Linea de texto de Markdown 4.
 
-####**Citas de bloque**
+#### **Citas de bloque**
 
 Para utilizar citas de bloque utilizar ">"
 
@@ -30,7 +30,7 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing.
 
-Citas de bloque anidadas
+#### **Citas de bloque anidadas**
 
 > This is the first level of quoting.
 >
@@ -38,7 +38,7 @@ Citas de bloque anidadas
 >
 > Back to the first level.
 
-Bloques de cita junto con encabezados
+#### **Bloques de cita junto con encabezados**
 
 > ## This is a header.
 > 
@@ -48,6 +48,7 @@ Bloques de cita junto con encabezados
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+>     linkCodigo: 
 
 Empieza html codigo de prueba
 <html>

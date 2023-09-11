@@ -1,4 +1,4 @@
-
+Markdown utilidades
 
 # Prueba de encabezado 1 Markdown
 ## Prueba de encabezado 2 Markdown
@@ -28,6 +28,16 @@ Citas de bloque anidadas
 >
 > Back to the first level.
 
+Bloques de cita junto con encabezados
+
+> ## This is a header.
+> 
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+> 
+> Here's some example code:
+> 
+>     return shell_exec("echo $input | $markdown_script");
 
 Empieza html codigo de prueba
 <html>

@@ -9,6 +9,6 @@
     
 <body>
     <h1>Esto es un encabezado</h1>
-    <p>Y esto es un parrafo, donde podemos escribir todo el rollo que se nos ocurra.,</p>
+    <p>Y esto es un parrafo, donde podemos escribir todo el rollo que se nos ocurra.</p>
 </body>
 </html>

@@ -84,4 +84,9 @@ Para colocar codigo solo debemos poner la linea de codigo que queremos entre "` 
 
 Por ejemplo: `System.out.println("Hola mundo.");`
 
+#### **Imagen**
+
+Para colocar una imagen es de la misma forma del link pero con un signo de interrogacion antes de los corchetes ![]
+
+![Imagen MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 

@@ -82,6 +82,6 @@ Para crear una lista sin ordenar simplemente tienes que colocar un signo como po
 
 Para colocar codigo solo debemos poner la linea de codigo que queremos entre "`   `"
 
-Por ejemplo: `System.out.println("Hola mundo.")`
+Por ejemplo: `System.out.println("Hola mundo.");`
 
 

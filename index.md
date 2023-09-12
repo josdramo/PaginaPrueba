@@ -78,5 +78,10 @@ Para crear una lista sin ordenar simplemente tienes que colocar un signo como po
 + Elemento g
 + elemento o
 
+#### **Codigo**
+
+Para colocar codigo solo debemos poner la linea de codigo que queremos entre "`   `"
+
+Por ejemplo: `System.out.println("Hola mundo.")`
 
 

@@ -51,9 +51,18 @@ id sem consectetuer libero luctus adipiscing.
 
 #### **Link**
 
-Enlace a codigo de la pagina [Enlace](https://github.com/josdramo/PaginaPrueba/blob/main/index.md)
+Enlace a codigo de la pagina [Link del codigo de la pagina](https://github.com/josdramo/PaginaPrueba/blob/main/index.md)
+
+#### **URLs y Email**
+
+Para poner Urls y emails en MarkDown hay que poner < *tuUrl_o_Email* >
+
+Pagina web: <https://josdramo.github.io/PaginaPrueba/>
+Gmail: <josedavidramosrios@gmail.com>
 
 #### **Lista ordenada**
+
+Para crear una lista ordenada simplemente tienes que seguir una secuencia de numeros, por ejemplo 1. , 2. , 3. , 4. , ...
 
 1. Elemento 1
 2. Elemento 2
@@ -61,6 +70,8 @@ Enlace a codigo de la pagina [Enlace](https://github.com/josdramo/PaginaPrueba/b
 4. Elemento 4
 
 #### **Lista sin ordenar**
+
+Para crear una lista sin ordenar simplemente tienes que colocar un signo como por ejemplo: +, *, -
 
 + Elemento a
 + Elemento h
